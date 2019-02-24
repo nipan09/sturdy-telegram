@@ -4,7 +4,7 @@ read -p "username: "
 read -sp "password: " pass
 
 echo
-if [ $pass=="nipan9899" ]           #space bw brackets and text 
+if [ $pass == "abcd" ]           #space bw brackets and text 
 then
    echo You are signed in.
    for value in {1..3}              #two dots
