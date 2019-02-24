@@ -1,3 +1,6 @@
+body{
+background-color: #ECF0F1;
+}
 h3.center{
    text-align: left;
    color: #008B8B;
@@ -6,6 +9,11 @@ h3.center{
     font-style: italic;
 }
 
+h2.myself{
+     font-style: bold;
+     color: #800000;
+     text-align: center;
+}
 h3.myself {
     font-style: bold;
     color: #DAA520;
