@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
-/file for vignere problem
+//file for vignere problem
 int main()
 {
 	char c1[26]= "abcdefghijklmnopqrstuvwxyz";
